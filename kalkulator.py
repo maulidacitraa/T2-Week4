@@ -1,3 +1,6 @@
+# NAMA  : [Maulida Citra Illiyyin]
+# NIM   : [F1D02310145]
+# KELAS : [C]
 import sys
 from PySide6.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout, 
                                 QLabel, QLineEdit, QComboBox, QPushButton, QMessageBox)
